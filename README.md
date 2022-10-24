@@ -44,7 +44,7 @@ Aplicando a Modelagem de Sistemas com PHP, seguindo o Diagrama de Classes e Obje
 
 ```
 
-<h3> Classe Marca </h3>
+<h3> Classe Carrinho </h3>
 
 ```php
 
