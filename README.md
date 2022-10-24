@@ -50,8 +50,6 @@ Aplicando a Modelagem de Sistemas com PHP, seguindo o Diagrama de Classes e Obje
 
 <?php 
 
-<?php 
-
     class Carrinho {
 
         private $itens;
